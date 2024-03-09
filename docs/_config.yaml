@@ -1,5 +1,7 @@
+theme: "just-the-docs"
 title: Drupal Journal
-description: The official documentation for Drupal Journal.
-baseurl: "/docs"
-theme: jekyll-theme-minimal
-# theme: jekyll-theme-cayman
+logo: "/images/drupal_journal.png"
+search_enabled: true
+aux_links:
+  "Project on GitHub":
+    - "//github.com/yourusername/yourproject"
